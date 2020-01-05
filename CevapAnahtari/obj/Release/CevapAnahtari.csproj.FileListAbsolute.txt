@@ -1,0 +1,9 @@
+C:\Users\kamil\source\repos\CevapAnahtari\CevapAnahtari\bin\Release\CevapAnahtari.exe.config
+C:\Users\kamil\source\repos\CevapAnahtari\CevapAnahtari\bin\Release\CevapAnahtari.exe
+C:\Users\kamil\source\repos\CevapAnahtari\CevapAnahtari\bin\Release\CevapAnahtari.pdb
+C:\Users\kamil\source\repos\CevapAnahtari\CevapAnahtari\obj\Release\CevapAnahtari.Form1.resources
+C:\Users\kamil\source\repos\CevapAnahtari\CevapAnahtari\obj\Release\CevapAnahtari.Properties.Resources.resources
+C:\Users\kamil\source\repos\CevapAnahtari\CevapAnahtari\obj\Release\CevapAnahtari.csproj.GenerateResource.cache
+C:\Users\kamil\source\repos\CevapAnahtari\CevapAnahtari\obj\Release\CevapAnahtari.exe
+C:\Users\kamil\source\repos\CevapAnahtari\CevapAnahtari\obj\Release\CevapAnahtari.pdb
+C:\Users\kamil\source\repos\CevapAnahtari\CevapAnahtari\obj\Release\CevapAnahtari.csprojAssemblyReference.cache
